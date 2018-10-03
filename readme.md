@@ -1,4 +1,4 @@
-# 캡스톤디자인 프로젝트
-## Github 배우기
+# Capstone Design Project
+## Learning Github
 
 Somewhat Different Thing is My mind.
